@@ -11,7 +11,7 @@ The framework for this is based on the [PhyPiDAQ](https://github.com/PhyPiDAQ) p
 acquisition tools.
 
 In the physics lab at KIT, the charging curve of a capacitor is measured and digitized, whereby the capacitor is charged by the photocurrent of a photocell.
-The voltage across the capacitor can thereby be passed on to the ADC via the high-impedance input and low-impedance output of the operational amplifier without discharging the capacitor.
+The voltage difference across the capacitor can thereby be passed on to the ADC via the high-impedance input and low-impedance output of the operational amplifier without discharging the capacitor.
 #### Currently available Documentation
 
 - [Build instructions for circuit board](docs/Hardware_instructions.md)
