@@ -12,5 +12,5 @@ acquisition tools.
 
 #### Currently available Documentation
 
-    - [Build instructions for circuit board](docs/Hardware_instructions.md)
-    - [Software instructions for Data acquisition](docs/Software_instructions.md)
+- [Build instructions for circuit board](docs/Hardware_instructions.md)
+- [Software instructions for Data acquisition](docs/Software_instructions.md)
