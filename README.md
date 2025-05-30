@@ -1,1 +1,1 @@
-# Instructions for building an impedance converter for the Raspberry Pi
+# Instructions for building an Impedance converter for the Raspberry Pi
