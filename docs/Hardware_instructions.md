@@ -14,5 +14,6 @@ An ADS1115 is used to digitize the signal, which can digitize voltages up to 5V 
 
 **Important : To stabilize the charging curve and filter out periodic, long-wave noise signals, a differential measurement is performed between inputs A1 and A0 of the ADS1115. A0 is connected to the output of the CA3140 and A1 to the Common Ground.**
 
-*Fig. 2*: Model of soldered connections on a breadboard.  
-                    ![Figure 2](images/Modell_breadboard.jpg)
+*Fig. 2*: Model of soldered connections on a strip board.  
+                    ![Figure 2](images/Modell_stripboard.jpg)
+The components used are soldered onto a strip board and connected to each other using the shortest possible cable connections.
