@@ -30,7 +30,7 @@ The following figures show the actual solder and cable connections. The connecti
 For the BNC input, the push button, and the 2 mm sockets, suitable holes must be drilled into the front panel of the case in order to mount them.
 Finally, a [shortened circuit diagram](images/Front_cover.jpg) is attached to the front of the case.
 
-*Fig. 4*: Front of the strip board with with wired connections to the Inputs and Outputs of the case cover.  
+*Fig. 5*: Front of the strip board with with wired connections to the Inputs and Outputs of the case cover.  
                     ![Figure 3](images/Front_case.png)
 
 To reduce noise during charge-sensitive measurements, it is advisable to use plug-in capacitors and connection cables that are as short as possible.
