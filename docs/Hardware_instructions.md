@@ -11,3 +11,5 @@ The 5. generation of RasPi's are used in the physics labs at the Faculty of Phys
 
 A CA3140 chip is used as an operational amplifier under the use of a voltage follower / impedance converter, which receives a symmetrical supply voltage of 5V from a TMA-0505D. The preceding capacitors and resistors are used to stabilize the voltage.
 An ADS1115 is used to digitize the signal, which can digitize voltages up to 5V through the preceeding protection diodes.
+
+**Important : To stabilize the charging curve and filter out periodic, long-wave noise signals, a differential measurement is performed between inputs A1 and A0 of the ADS1115. A0 is connected to the output of the CA3140 and A1 to the Common Ground.**
