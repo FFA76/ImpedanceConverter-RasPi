@@ -1,7 +1,7 @@
 # Build instructions for building an Impedance converter for the Raspberry Pi
 The circuit board described below is based in part on that of the PhyPiDAQ-project's portbale [Measuring case](https://github.com/PhyPiDAQ/MeasuringCase).
 
-*Abb. 1*: Circuit diagram of the impedance converter.  
+*Fig. 1*: Circuit diagram of the impedance converter.  
                     ![Figure 1](images/Circuit_diagram.png)
 
 A list of the electrical components and part numbers is available at [components](/docs/components).
@@ -13,3 +13,6 @@ A CA3140 chip is used as an operational amplifier under the use of a voltage fol
 An ADS1115 is used to digitize the signal, which can digitize voltages up to 5V through the preceeding protection diodes.
 
 **Important : To stabilize the charging curve and filter out periodic, long-wave noise signals, a differential measurement is performed between inputs A1 and A0 of the ADS1115. A0 is connected to the output of the CA3140 and A1 to the Common Ground.**
+
+*Fig. 2*: Model of soldered connections on a breadboard.  
+                    ![Figure 2](images/Modell_breadboard.jpg)
