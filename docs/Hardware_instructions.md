@@ -33,4 +33,4 @@ Finally, a [shortened circuit diagram](images/Front_cover.jpg) is attached to th
 *Fig. 5*: Front of the strip board with with wired connections to the Inputs and Outputs of the case cover.  
                     ![Figure 3](images/Front_case.png)
 
-To reduce noise during charge-sensitive measurements, it is advisable to use plug-in capacitors, connection cables that are as short as possible no open connections to the work surface.
+To reduce noise during charge-sensitive measurements, it is advisable to use plug-in capacitors, connection cables that are as short as possible and no open connections to the work surface.
