@@ -17,3 +17,11 @@ An ADS1115 is used to digitize the signal, which can digitize voltages up to 5V 
 *Fig. 2*: Model of soldered connections on a strip board.  
                     ![Figure 2](images/Modell_stripboard.jpg)
 The components used are soldered onto a strip board and connected to each other using the shortest possible cable connections.
+
+The following figures show the actual solder and cable connections. The connections to the inputs and outputs on the case cover are also shown.
+
+*Fig. 3*: Backside of strip board with soldered connections.  
+                    ![Figure 3](images/Back_stripboard.jpg)
+
+*Fig. 4*: Front of strip board with with wired connections to the Inputs and Outputs of the case cover.  
+                    ![Figure 3](images/Front_stripboard.jpg)
