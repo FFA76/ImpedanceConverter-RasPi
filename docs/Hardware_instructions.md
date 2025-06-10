@@ -20,8 +20,14 @@ The components used are soldered onto a strip board and connected to each other 
 
 The following figures show the actual solder and cable connections. The connections to the inputs and outputs on the case cover are also shown.
 
-*Fig. 3*: Backside of strip board with soldered connections.  
+*Fig. 3*: Backside of the strip board with soldered connections.  
                     ![Figure 3](images/Back_stripboard.jpg)
 
-*Fig. 4*: Front of strip board with with wired connections to the Inputs and Outputs of the case cover.  
+*Fig. 4*: Front of the strip board with with wired connections to the Inputs and Outputs of the case cover.  
                     ![Figure 3](images/Front_stripboard.jpg)
+
+For the BNC input, the push button, and the 2 mm sockets, suitable holes must be drilled into the front panel of the case in order to mount them.
+Finally, a [shortened circuit diagram](images/Front_cover.jpg) is attached to the front of the case.
+
+*Fig. 4*: Front of the strip board with with wired connections to the Inputs and Outputs of the case cover.  
+                    ![Figure 3](images/Front_case.png)
