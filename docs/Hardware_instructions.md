@@ -34,3 +34,5 @@ Finally, a [shortened circuit diagram](images/Front_cover.jpg) is attached to th
                     ![Figure 3](images/Front_case.png)
 
 To reduce noise during charge-sensitive measurements, it is advisable to use plug-in capacitors, connection cables that are as short as possible and no open connections to the work surface.
+To prevent any charge from escaping through the case, it is also 
+advisable to choose 2-mm plastic sockets and to ensure that they do not come into contact with the front cover paper by cutting the holes out precisely.
