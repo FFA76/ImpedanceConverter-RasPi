@@ -32,3 +32,8 @@ DifModeChan: [true] # differntial measurement of channel 0 minus 1
 Gain: [1]
 sampleRate: 860 #max. sample rate
 ```
+Now the measurement can bes started and the charging curve of the capacitor can be displayed and saved as a .csv file.
+The results of the measurement series with different wavelengths due to the interference filter can be seen below.
+
+*Fig. 1*: Charging curves of 4.7 nF capacitor for different wave lengths  
+                    ![Figure 1](images/curves.png)
