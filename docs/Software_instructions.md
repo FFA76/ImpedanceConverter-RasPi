@@ -40,13 +40,13 @@ The results of the measurement series with different wavelengths due to the inte
 
 **Photon energy**  
 Light of wavelength $\lambda$ has frequency  
-$$
+$
 \nu = \frac{c}{\lambda}
-$$
+$
 and therefore energy  
-$$
+$
 E_{\text{light}} = h\,\nu.
-$$
+$
 
 ---
 
