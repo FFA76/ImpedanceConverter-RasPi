@@ -64,7 +64,7 @@ Equating kinetic and field energy gives
 
 $e\cdot U = h\cdot \nu - E_{A}
 \quad\Longrightarrow\quad
-U = \frac{h}{e}\,\nu \;-\;\frac{E_{A}}{e}$.
+U = \frac{h}{e}\cdot \nu - \frac{E_{A}}{e}$.
 
 ---
 
