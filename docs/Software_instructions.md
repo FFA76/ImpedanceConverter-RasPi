@@ -9,7 +9,7 @@ In addition to the measuring box and the external setup consisting of the optica
 
 To start a series of measurements, all you need to do is adjust the configuration files of the PhypIDAQ software, as shown in the following two code examples, which can be copied.
 
-*photoeffekt.daq:*
+*photoeffect.daq:*
 ```yaml
 DeviceFile: config/photoeffekt_ADS1115Config.yaml   # 16 bit ADC, I2C bus
 ChanLabels: ['Voltage']            # names for channels 
@@ -24,7 +24,7 @@ DataFile:   null              #  null to disable
 CSVseparator: '   '            # field separator, set to ';' for German Excel   
 ```
 
-*photoeffekt_ADS1115Config.yaml:*
+*photoeffect_ADS1115Config.yaml:*
 ```yaml
 DAQModule: ADS1115Config  
 ADCChannels: [0]
