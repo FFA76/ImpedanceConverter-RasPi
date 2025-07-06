@@ -90,5 +90,5 @@ The plot of  $U \cdot e$ versus $\nu$ for the measurement above is shown below.
 
 This yields a quite good result for the comparison of the experimental value of $h$ and the literature value, as can bee seen below.
 
-*Fig. 2*: Comparison of experimental and literature value
+*Fig. 3*: Comparison of experimental and literature value
                     ![Figure 1](images/h_comp.png)
