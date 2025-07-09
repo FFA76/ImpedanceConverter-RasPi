@@ -40,22 +40,22 @@ Now the measurement can be started and the charging curve of the capacitor can b
 
 **Photon energy**  
 Light of wavelength $\lambda$ has frequency
-$$
+$
 \nu = \frac{c}{\lambda}
-$$
+$
 and therefore energy
-$$
+$
 E_{\text{light}} = h\cdot \nu.
-$$
+$
 
 ---
 
 **Kinetic energy of photoelectrons**  
 
 After overcoming the work function $E_{A}$, the maximum kinetic energy is
-$$
+$
 E_{\text{kin}} = E_{\text{light}} - E_{A} = h\cdot \nu - E_{A}.
-$$
+$
 
 
 ---
@@ -63,20 +63,20 @@ $$
 **Stopping potential and field energy**  
 
 To stop the electrons, a reverse voltage $U$ is required. The electric field energy stored per electron is
-$$
+$
 E_{\text{field}} = e\cdot U.
-$$
+$
 
 ---
 
 **Steady-state (stopping) condition**  
 
 Equating kinetic and field energy gives
-$$
+$
 e\cdot U = h\cdot \nu - E_{A}
 \quad\Longrightarrow\quad
 U = \frac{h}{e}\cdot \nu - \frac{E_{A}}{e}
-$$
+$
 
 ---
 
