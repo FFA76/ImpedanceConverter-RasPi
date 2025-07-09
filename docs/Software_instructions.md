@@ -54,7 +54,7 @@ $$
 
 After overcoming the work function $E_{A}$, the maximum kinetic energy is
 $$
-$E_{\text{kin}} = E_{\text{light}} - E_{A} = h\cdot \nu - E_{A}.
+E_{\text{kin}} = E_{\text{light}} - E_{A} = h\cdot \nu - E_{A}.
 $$
 
 
@@ -73,7 +73,7 @@ $$
 
 Equating kinetic and field energy gives
 $$
-$e\cdot U = h\cdot \nu - E_{A}
+e\cdot U = h\cdot \nu - E_{A}
 \quad\Longrightarrow\quad
 U = \frac{h}{e}\cdot \nu - \frac{E_{A}}{e}
 $$
