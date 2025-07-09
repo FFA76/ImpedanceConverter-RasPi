@@ -53,9 +53,7 @@ $
 **Kinetic energy of photoelectrons**  
 
 After overcoming the work function $E_{A}$, the maximum kinetic energy is
-$
-E_{\text{kin}} = E_{\text{light}} - E_{A} = h\cdot \nu - E_{A}.
-$
+$E_{\text{kin}} = E_{\text{light}} - E_{A} = h\cdot \nu - E_{A}.$
 
 
 ---
@@ -63,20 +61,18 @@ $
 **Stopping potential and field energy**  
 
 To stop the electrons, a reverse voltage $U$ is required. The electric field energy stored per electron is
-$
-E_{\text{field}} = e\cdot U.
-$
+
+$E_{\text{field}} = e\cdot U.$
 
 ---
 
 **Steady-state (stopping) condition**  
 
 Equating kinetic and field energy gives
-$
-e\cdot U = h\cdot \nu - E_{A}
+
+$e\cdot U = h\cdot \nu - E_{A}
 \quad\Longrightarrow\quad
-U = \frac{h}{e}\cdot \nu - \frac{E_{A}}{e}
-$
+U = \frac{h}{e}\cdot \nu - \frac{E_{A}}{e}$
 
 ---
 
